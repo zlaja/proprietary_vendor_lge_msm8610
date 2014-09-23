@@ -209,4 +209,5 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w3ds/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/lge/w3ds/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/lge/w3ds/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
-    vendor/lge/w3ds/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so
+    vendor/lge/w3ds/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
+    vendor/lge/w3ds/proprietary/bin/mpdecision:system/bin/mpdecision
