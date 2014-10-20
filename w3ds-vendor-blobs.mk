@@ -106,6 +106,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w3ds/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/lge/w3ds/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/lge/w3ds/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+    vendor/lge/w3ds/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
+    vendor/lge/w3ds/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
+    vendor/lge/w3ds/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/lge/w3ds/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/w3ds/proprietary/lib/hw/camera.msm8610.so:system/lib/hw/camera.msm8610.so \
     vendor/lge/w3ds/proprietary/lib/libchromatix_hi543_common.so:system/lib/libchromatix_hi543_common.so \
