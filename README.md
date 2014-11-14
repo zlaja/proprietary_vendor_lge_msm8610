@@ -1,1 +1,1 @@
-Vendor blobs for LG L40 Dual D170
+Vendor blobs for LGE MSM8610 devices

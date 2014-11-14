@@ -27,7 +27,7 @@ PRODUCT_COPY_FILES := \
     packages/wallpapers/LivePicker/android.software.live_wallpaper.xml:/system/etc/permissions/android.software.live_wallpaper.xml
 
 # Pick up overlay for features that depend on non-open-source files
-DEVICE_PACKAGE_OVERLAYS := vendor/lge/w3ds/overlay
+DEVICE_PACKAGE_OVERLAYS := vendor/lge/msm8610/overlay
 
 # Apps
 PRODUCT_PACKAGES += \
@@ -38,4 +38,4 @@ PRODUCT_PACKAGES += \
     TimeService \
     UpdateSetting
 
-$(call inherit-product, vendor/lge/w3ds/w3ds-vendor-blobs.mk)
+$(call inherit-product, vendor/lge/msm8610/msm8610-vendor-blobs.mk)
