@@ -53,6 +53,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
     vendor/lge/msm8610/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/lge/msm8610/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
+    vendor/lge/w3ds/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/lge/w3ds/proprietary/bin/rild:system/bin/rild \
     vendor/lge/msm8610/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/lge/msm8610/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/lge/msm8610/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
