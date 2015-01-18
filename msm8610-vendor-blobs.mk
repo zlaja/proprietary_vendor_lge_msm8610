@@ -208,4 +208,5 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/lge/msm8610/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/lge/msm8610/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
-    vendor/lge/msm8610/proprietary/bin/mpdecision:system/bin/mpdecision
+    vendor/lge/msm8610/proprietary/bin/mpdecision:system/bin/mpdecision \
+    vendor/lge/msm8610/proprietary/bin/sensord:system/bin/sensord
