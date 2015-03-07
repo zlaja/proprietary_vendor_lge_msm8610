@@ -17,7 +17,7 @@ PRODUCT_COPY_FILES := \
     vendor/lge/msm8610/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so
 
 PRODUCT_COPY_FILES += \
-    vendor/lge/msm8610/proprietary/app/TimeService.apk:system/app/TimeService.apk \
+    vendor/lge/msm8610/proprietary/app/TimeService.apk:system/app/TimeService/TimeService.apk \
     vendor/lge/msm8610/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/msm8610/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/lge/msm8610/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
@@ -73,6 +73,16 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/lge/msm8610/proprietary/vendor/lib/libdsnetutils.so:system/vendor/lib/libdsnetutils.so \
     vendor/lge/msm8610/proprietary/vendor/lib/libqdp.so:system/vendor/lib/libqdp.so \
+    vendor/lge/msm8610/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
+    vendor/lge/msm8610/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
+    vendor/lge/msm8610/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
+    vendor/lge/msm8610/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
+    vendor/lge/msm8610/proprietary/lib/libbinder.so:system/vendor/lib/libbinder.so \
+    vendor/lge/msm8610/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
+    vendor/lge/msm8610/proprietary/lib/libxml2.so:system/vendor/lib/libxml2.so \
+    vendor/lge/msm8610/proprietary/lib/libuicc.so:system/vendor/lib/libuicc.so \
+    vendor/lge/msm8610/proprietary/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
+    vendor/lge/msm8610/proprietary/lib/libcnefeatureconfig.so:system/vendor/lib/libcnefeatureconfig.so \
     vendor/lge/msm8610/proprietary/lib/libvss_common_iface.so:system/lib/libvss_common_iface.so \
     vendor/lge/msm8610/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
     vendor/lge/msm8610/proprietary/lib/libvss_nv_iface.so:system/lib/libvss_nv_iface.so \
