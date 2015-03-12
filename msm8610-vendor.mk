@@ -38,4 +38,4 @@ PRODUCT_PACKAGES += \
     TimeService \
     UpdateSetting
 
-$(call inherit-product, vendor/lge/msm8610/msm8610-vendor-blobs.mk)
+$(call inherit-product, vendor/lge/msm8610-common/msm8610-vendor-blobs.mk)
