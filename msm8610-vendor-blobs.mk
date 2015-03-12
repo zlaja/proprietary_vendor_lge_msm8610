@@ -38,14 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/lge/msm8610-common/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
     vendor/lge/msm8610-common/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
-    vendor/lge/msm8610-common/proprietary/etc/ACDB/Bluetooth_cal.acdb:system/etc/ACDB/Bluetooth_cal.acdb \
-    vendor/lge/msm8610-common/proprietary/etc/ACDB/General_cal.acdb:system/etc/ACDB/General_cal.acdb \
-    vendor/lge/msm8610-common/proprietary/etc/ACDB/Global_cal.acdb:system/etc/ACDB/Global_cal.acdb \
-    vendor/lge/msm8610-common/proprietary/etc/ACDB/Handset_cal.acdb:system/etc/ACDB/Handset_cal.acdb \
-    vendor/lge/msm8610-common/proprietary/etc/ACDB/Hdmi_cal.acdb:system/etc/ACDB/Hdmi_cal.acdb \
-    vendor/lge/msm8610-common/proprietary/etc/ACDB/Headset_cal.acdb:system/etc/ACDB/Headset_cal.acdb \
-    vendor/lge/msm8610-common/proprietary/etc/ACDB/Speaker_cal.acdb:system/etc/ACDB/Speaker_cal.acdb \
-    vendor/lge/msm8610-common/proprietary/etc/ACDB/workspaceFile.qwsp:system/etc/ACDB/workspaceFile.qwsp \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
@@ -217,6 +209,5 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/lge/msm8610-common/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
-    vendor/lge/msm8610-common/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/lge/msm8610-common/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/msm8610-common/proprietary/bin/sensord:system/bin/sensord
