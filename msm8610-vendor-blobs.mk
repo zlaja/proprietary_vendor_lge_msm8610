@@ -107,6 +107,12 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
+    vendor/lge/msm8610-common/proprietary/bin/bdaddr_loader:system/bin/bdaddr_loader \
+    vendor/lge/msm8610-common/proprietary/bin/btnvtool:system/bin/btnvtool \
+    vendor/lge/msm8610-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/lge/msm8610-common/proprietary/lib/libatd_corelib.so:system/lib/libatd_corelib.so \
+    vendor/lge/msm8610-common/proprietary/lib/libbtnv.so:system/lib/libbtnv.so \
+    vendor/lge/msm8610-common/proprietary/lib/liblgftmitem.so:system/lib/liblgftmitem.so \
     vendor/lge/msm8610-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/msm8610-common/proprietary/lib/hw/camera.msm8610.so:system/lib/hw/camera.msm8610.so \
     vendor/lge/msm8610-common/proprietary/lib/libchromatix_hi543_common.so:system/lib/libchromatix_hi543_common.so \
