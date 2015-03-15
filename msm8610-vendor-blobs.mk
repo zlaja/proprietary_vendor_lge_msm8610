@@ -69,7 +69,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
-    vendor/lge/msm8610-common/proprietary/lib/libbinder.so:system/vendor/lib/libbinder.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/lge/msm8610-common/proprietary/lib/libxml2.so:system/vendor/lib/libxml2.so \
     vendor/lge/msm8610-common/proprietary/lib/libuicc.so:system/vendor/lib/libuicc.so \
