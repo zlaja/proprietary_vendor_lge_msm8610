@@ -196,11 +196,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
-    vendor/lge/msm8610-common/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/lge/msm8610-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lge/msm8610-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/msm8610-common/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/lge/msm8610-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
