@@ -17,7 +17,6 @@ PRODUCT_COPY_FILES := \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so
 
 PRODUCT_COPY_FILES += \
-    vendor/lge/msm8610-common/proprietary/app/TimeService.apk:system/app/TimeService/TimeService.apk \
     vendor/lge/msm8610-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
@@ -70,7 +69,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/lge/msm8610-common/proprietary/lib/libxml2.so:system/vendor/lib/libxml2.so \
     vendor/lge/msm8610-common/proprietary/lib/libuicc.so:system/vendor/lib/libuicc.so \
     vendor/lge/msm8610-common/proprietary/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/lge/msm8610-common/proprietary/lib/libcnefeatureconfig.so:system/vendor/lib/libcnefeatureconfig.so \
@@ -198,7 +196,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
-    vendor/lge/msm8610-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/lge/msm8610-common/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/lge/msm8610-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lge/msm8610-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
