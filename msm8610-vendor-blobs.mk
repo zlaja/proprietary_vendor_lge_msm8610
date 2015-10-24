@@ -44,8 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/lge/msm8610-common/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
-    vendor/lge/msm8610-common/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/lge/msm8610-common/proprietary/bin/rild:system/bin/rild \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
@@ -72,12 +70,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/lib/libuicc.so:system/vendor/lib/libuicc.so \
     vendor/lge/msm8610-common/proprietary/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/lge/msm8610-common/proprietary/lib/libcnefeatureconfig.so:system/vendor/lib/libcnefeatureconfig.so \
-    vendor/lge/msm8610-common/proprietary/lib/libvss_common_iface.so:system/lib/libvss_common_iface.so \
-    vendor/lge/msm8610-common/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
-    vendor/lge/msm8610-common/proprietary/lib/libvss_nv_iface.so:system/lib/libvss_nv_iface.so \
-    vendor/lge/msm8610-common/proprietary/lib/libvss_nv_idl.so:system/lib/libvss_nv_idl.so \
-    vendor/lge/msm8610-common/proprietary/lib/libvss_common_core.so:system/lib/libvss_common_core.so \
-    vendor/lge/msm8610-common/proprietary/lib/libvss_nv_core.so:system/lib/libvss_nv_core.so \
     vendor/lge/msm8610-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/msm8610-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/msm8610-common/proprietary/bin/netmgrd:system/bin/netmgrd \
