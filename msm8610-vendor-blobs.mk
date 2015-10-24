@@ -105,6 +105,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/lge/msm8610-common/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/egl/libplayback_adreno.so:system/vendor/lib/egl/libplayback_adreno.so \
     vendor/lge/msm8610-common/proprietary/bin/bdaddr_loader:system/bin/bdaddr_loader \
     vendor/lge/msm8610-common/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/lge/msm8610-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
