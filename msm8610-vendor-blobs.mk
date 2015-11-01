@@ -204,4 +204,23 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8610-common/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/lge/msm8610-common/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/lge/msm8610-common/proprietary/bin/mpdecision:system/bin/mpdecision \
-    vendor/lge/msm8610-common/proprietary/bin/sensord:system/bin/sensord
+    vendor/lge/msm8610-common/proprietary/bin/sensord:system/bin/sensord \
+    vendor/lge/msm8610-common/proprietary/bin/loc_launcher:system/bin/loc_launcher \
+    vendor/lge/msm8610-common/proprietary/bin/location-mq:system/bin/location-mq \
+    vendor/lge/msm8610-common/proprietary/bin/lowi-server:system/bin/lowi-server \
+    vendor/lge/msm8610-common/proprietary/bin/quipc_igsn:system/bin/quipc_igsn \
+    vendor/lge/msm8610-common/proprietary/bin/quipc_main:system/bin/quipc_main \
+    vendor/lge/msm8610-common/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
+    vendor/lge/msm8610-common/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/liblowi_client.so:system/vendor/lib/liblowi_client.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libwifiscanner.so:system/vendor/lib/libwifiscanner.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:system/vendor/lib/libxtwifi_zpp_adaptor.so \
+    vendor/lge/msm8610-common/proprietary/vendor/bin/slim_ap_daemon:system/vendor/bin/slim_ap_daemon \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libasn1cper.so:system/vendor/lib/libasn1cper.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libasn1crt.so:system/vendor/lib/libasn1crt.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libasn1crtx.so:system/vendor/lib/libasn1crtx.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
+    vendor/lge/msm8610-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so

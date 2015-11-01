@@ -36,6 +36,7 @@ PRODUCT_PACKAGES += \
     SprintHiddenMenu \
     shutdownlistener \
     TimeService \
-    UpdateSetting
+    UpdateSetting \
+    com.qualcomm.location
 
 $(call inherit-product, vendor/lge/msm8610-common/msm8610-vendor-blobs.mk)
